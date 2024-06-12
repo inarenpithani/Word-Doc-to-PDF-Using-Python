@@ -1,4 +1,4 @@
-# Word-Doc-to-PDF-Using-Python
+# Word Doc to PDF Using Python
 
 ## Problem Statement
     Create a python project to convert Word document into PDF
